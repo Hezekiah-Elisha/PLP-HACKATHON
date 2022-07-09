@@ -1,4 +1,4 @@
-# PLP-HACKATHON
+# PLP-HACKATHON - Group 1
 ## ​PLP Python Hackathon
 ### 3 Days of Python (Roadmap)
 #### Bus Fare Challenge – Task One (Day 1)
